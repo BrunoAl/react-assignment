@@ -16,7 +16,7 @@ export function getValuesByProperty(objs, property) {
 }
 
 /**
- * Helper function to covert string to kebab case (eg. Kwajslein Atoll to kwajslein-atoll)
+ * Helper function to convert string to kebab case (eg. Kwajslein Atoll to kwajslein-atoll)
  * @function toKebabCase
  * @param {string} string
  * @returns {string}

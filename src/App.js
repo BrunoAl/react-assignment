@@ -26,7 +26,6 @@ class App extends PureComponent {
 
     componentWillUnmount() {
         this.componentIsMounted = false;
-        this.getLaunches();
     }
 
     getLaunches = () => {
